@@ -1,1 +1,0 @@
-hero, student, $5000
